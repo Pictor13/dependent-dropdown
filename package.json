@@ -24,8 +24,5 @@
     },
     "main": "./js/dependent-dropdown.js",
     "style": "./css/dependent-dropdown.css",
-    "peerDependencies": {
-        "jquery": "^1.6.0, <1.7.0"
-    },
     "license": "BSD-3-Clause"
 }
