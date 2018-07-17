@@ -20,12 +20,12 @@
         "select"
     ],
     "dependencies": {
-        "jquery": ">= 1.6.0"
+        "jquery": "^1.6.0"
     },
     "main": "./js/dependent-dropdown.js",
     "style": "./css/dependent-dropdown.css",
     "peerDependencies": {
-        "jquery": ">= 1.6.0"
+        "jquery": "^1.6.0"
     },
     "license": "BSD-3-Clause"
 }
